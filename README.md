@@ -17,9 +17,9 @@ Basic knowledge of HTML, CSS, and Bootstrap
 A code editor or IDE (e.g., Visual Studio Code, Sublime Text)
 A web browser (e.g., Google Chrome, Mozilla Firefox)
 ## Built With
-HTML5
-CSS3
-Bootstrap 5.3.0-alpha3
+HTML5,
+CSS3,
+Bootstrap 5.3.0-alpha3,
 Ionicons 5.1.2
 ## Author
 Sanjeet Prabhat Das
